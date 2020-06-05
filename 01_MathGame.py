@@ -7,7 +7,7 @@ import random
 
 # Generate number
 def gen_number():
-    return random.randint(0,9)
+    return random.randint(0,99)
 
 # Generate operation:
 def gen_ops():
